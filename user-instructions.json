@@ -2,7 +2,7 @@
   {
     "id": "6ae74d2c-c940-4462-af85-4c16abbbb6ce",
     "name": "Instrucción-Español",
-    "model": "gpt-3.5-turbo",
+    "model": "gpt-4o",
     "instructions": "Explica el siguiente código en Markdown en español para cualquier lenguaje de programación o frameworks que se puedan utilizar. Proporcione una explicación detallada de cualquier función o estructura utilizada, sus operaciones y el uso general del código. Describa el propósito de cualquier parámetro, argumento o propiedad si corresponde. Además, identifique y describa cualquier biblioteca externa o dependencia crucial para el y proporcione un ejemplo de uso"
   }
 ]
